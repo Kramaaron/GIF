@@ -1,5 +1,7 @@
 # GIF
 Just a GIF
-<div align="center">
+<body>
+	<div align="center">
 		<img src="justagif.gif">
-</div>
+	</div>
+</body>
